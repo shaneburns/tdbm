@@ -398,7 +398,7 @@ $role->setUsers($users);
 ```
 
 
-Joins ans filters
+Joins and filters
 -----------------
 
 ###Simple joins
